@@ -7,6 +7,6 @@ One could imagine how tough it would be to use a mouse as a patient suffering fr
 For one of the assigments I had in Rehabilitation Engineering (EEEN40350) module, I coded a software that would remove the noisy movement of the cursor and make it a straight line. This was coded in Matlab and basically fulters the x and y coordinates of the curser to achieve that. 
 It is not a  suffisticated tool but I found it really impressive to work! For more details checkout the [code](https://github.com/adildahlan/tremor-smart-mouse/blob/main/code.m) and the [report](https://github.com/adildahlan/tremor-smart-mouse/blob/main/report.pdf) Let me know what you think!
 
-
+![video](/tutorial.mov)
  
 ![Screenshot](/screenshot.png)
