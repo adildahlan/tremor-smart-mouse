@@ -8,5 +8,7 @@ For one of the assigments I had in Rehabilitation Engineering (EEEN40350) module
 It is not a  suffisticated tool but I found it really impressive to work! For more details checkout the [code](https://github.com/adildahlan/tremor-smart-mouse/blob/main/code.m) and the [report](https://github.com/adildahlan/tremor-smart-mouse/blob/main/report.pdf) Let me know what you think!
 
 ![video](/tutorial.gif)
+
+![video2](/tutorial2.gif)
  
 ![Screenshot](/screenshot.png)
